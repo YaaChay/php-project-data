@@ -1,0 +1,12 @@
+
+    Javascript (Modern Javascript)	
+    Author(s): IT Computer Center
+    Price:11.50 USD 	
+    Type: Myanmar Books
+    Category: ကွန်ပျူတာ / အင်တာနက်
+    No of Pages: 167
+    Binding: Paperback
+    Publication Month Year: Dec-2021
+    Size: 21 cm x 30 cm
+
+    Description: Web Developer တိုင်း လက်လွှတ်၍မရသည့် Javascript ကို စတင်လေ့လာမည့်သူများအတွက်ရည်ရွယ်ပြီး အခြေခံမှစတင်ကာ တစ်ဆင့်ချင်းအလိုက် ရှင်းလင်းရေးသားထားသော စာအုပ်ဖြစ်သည်။

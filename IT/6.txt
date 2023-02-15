@@ -1,0 +1,13 @@
+
+    C++ Programming Advanced Guide 		
+    Author(s): IT Computer Center
+    Price:11.50 USD
+    Type: Myanmar Books
+    Category: ကွန်ပျူတာ / အင်တာနက်
+    No of Pages: 142
+    Binding: Paperback
+    Publication Month Year: 2021
+    Size: 20 cm x 29 cm
+
+    Description: Mobile, Desktop OS များ၊ Browser များ၊ Cloud Server များမှသည် အာကာယာဉ်ဆိုင်ရာ Software များထိ ယနေ့တိုင်အသုံးချနေဆဲဖြစ်သည့် C++ Programming ရေးသားနည်းများ အနက် Object-oriented programming (OOP) ရေးသားနည်းများကို နမူနာ Code များနှင့် တကွ ရှင်းလင်း ရေးသားထားသော စာအုပ်ဖြစ်သည်။
+

@@ -1,0 +1,13 @@
+
+    python Programming		
+    Author(s): IT Computer Center
+    Price:11.50 USD 
+    Type: Myanmar Books
+    Category: ကွန်ပျူတာ / အင်တာနက်
+    No of Pages: 98
+    Binding: Paperback
+    Publication Month Year: Mar-2020
+    Size: 21 cm x 30 cm
+
+    Description: မြန်ဆန်ခြင်း၊ အသုံးရလွယ်ခြင်း၊ Deploy လုပ်ရ လွယ်ကူခြင်း၊ Web Application များတွင် လွယ်ကူစွာ ချဲ့ထွင်ရေးသားနိုင်ခြင်းတို့ကြောင့် ကျောင်းနှင့် လုပ်ငန်းခွင်နယ် ပယ်များတွင် အသုံးများလာသော python Programming အကြောင်းကို နမူနာ code များနှင့်တကွ အခြေခံမှစတင် ရေးသားရှင်းလင်းထားသော စာအုပ်ဖြစ်သည်။
+

@@ -1,0 +1,12 @@
+
+    JAVA Programming Advanced Guide 		
+    Author(s): IT Computer Center
+    Price:11.50 USD
+    Type: Myanmar Books
+    Category: ကွန်ပျူတာ / အင်တာနက်
+    No of Pages: 142
+    Binding: Paperback
+    Publication Month Year: 2021
+    Size: 20 cm x 29 cm
+
+    Description: သာမန်လုပ်ငန်းသုံးမှသည် စီးပွားရေးလုပ်ငန်းကြီးများသုံး Software များရေးရာတွင် အသုံး ပြုသည့် JAVA Programming ရေးသားနည်းများ အနက် Object-oriented programming (OOP) ရေးသားနည်းများကို နမူနာ Code များနှင့်တကွ ရှင်းလင်း ရေးသားထားသော စာအုပ် ဖြစ်သည်။
