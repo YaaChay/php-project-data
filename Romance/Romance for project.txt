@@ -1,0 +1,148 @@
+1. Name     :ခ်စ္လို့လြမ္း လြမ္းလို့ခ်စ္
+   Price       :5.75 USD
+   Author(s):ညိဳထြန္းလူ
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:158
+   Binding:Paperback
+   Publication Month Year:Dec-2022
+   Size:14cm x 21cm
+
+2. Name     :အသဲသိလား
+   Price       :4.60 USD
+   Author(s):ခ်စ္မင္းေဝ(Chucky)
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:250
+   Binding:Paperback
+   Publication Month Year:Nov-2008
+   Size:14cm x 21cm
+
+3. Name     :အေရွ့တံခါးအဝင္
+   Price       :2.85 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+  Description:ဝတ္ထုတို
+   No of Pages:250
+   Binding:Paperback
+   Publication Month Year:Jan-2012
+   Size:14cm x 21cm
+
+4.  Name     :က်ြန္မကနွင္းဆီပါေမာင္
+    Price       :5.70 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:340
+   Binding:Paperback
+   Publication Month Year:March-2013
+   Size:14cm x 21cm
+
+5.Price       :ကာရန္အလြဲ
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:350
+   Binding:Paperback
+   Publication Month Year:April-2015
+   Size:14cm x 21cm
+
+6. Name     :ပန္းေလွ
+   Price       :5.15 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Nov-2016
+   Size:14cm x 21cm
+
+7.Name      :ပံုျပင္သီတဲ့ပိုးၾကိဳးမ်ွင္
+   Price       :7.50 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:300
+   Binding:Paperback
+   Publication Month Year:Jan-2011
+   Size:14cm x 21cm
+
+8. Name      :အခ်စ္ကိုေစာင့္ဆိုင္းျခင္း
+   Price       :2.85 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:May-2011
+   Size:14cm x 21cm
+
+9. Name    :ေရြွဖူးစာေလးခ်ာခ်ာလည္
+    Price     :4.00 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:April-2014
+   Size:14cm x 21cm
+
+10.Name     :နတ္ဖက္တဲ့စံုတြဲမ်ား
+    Price       :2.85 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Feb-2010
+   Size:14cm x 21cm
+
+11.Name     :မခူးျဖစ္ခဲ့ေသာနွင္းဆီျဖဴ
+    Price       :2.85 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Jan-2011
+   Size:14cm x 21cm
+
+12.Name     :မေၾကြပါနဲ့ဆာကူရာ
+   Price       :3.45 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:July-2015
+   Size:14cm x 21cm
+
+13.Name       :အနမ္းဝိုင္
+    Price       :2.05 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Aug-2017
+   Size:14cm x 21cm
+
+14.Name      :ပံုျပင္ထဲကအခ်စ္အေၾကာင္း
+    Price       :2.85 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Sept-2012
+   Size:14cm x 21cm
+
+15.Name      :ရက္ရက္စက္စက္မိုး
+    Price       :6.30 USD
+   Author(s):ပုညခင္
+   Type      :Myanmar Books
+   Description:ဝတ္ထုတို
+   No of Pages:400
+   Binding:Paperback
+   Publication Month Year:Oct-2018
+   Size:14cm x 21cm

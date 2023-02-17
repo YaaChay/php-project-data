@@ -1,0 +1,122 @@
+1.Title:ရင္ခုန္လွူပ္ရွားဟာသမ်ား
+Price:2.30 USD
+Author:မူးျမင့္ေအာင္
+No of Pages:250
+Publication Date:April-2009
+Size:12cm×18cm
+Description:ဟာသ၊သေရာ္စာ
+
+2.Title:ရယ္စရာ ေမာစရာ ကေလးတို့ကမ္ဘာ
+Price:1.70 USD
+Author:ခင္ေမာင္တိုး(မိုးမိတ္)
+No of Pages:300
+Publication Date:March-2018
+Size:12cm×18cm
+Description:ဟာသ၊သေရာ္စာ
+
+3.Title:တဝါးဝါး တဟားဟား(ရယ္စရာ အေသာ့အေထ့မ်ား)
+Price: 0.30USD
+Author:ကိုေရြေတာသား
+No of Pages:300
+Binding:Paperback
+Publication Date:Nov-2020
+Size:12cm×18cm
+Description:ဟာသ၊သေရာ္စာ
+
+
+4.Title:သည္းခံေတာ္ မူျကပါေစခင္ဗ်ာ (ေပ်ာ္စရာ သေရာ္စာမ်ား)
+Price:2.85USD
+Author:သူရဿဝ
+No of Pages:300
+Publication Date:Dec-2022
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+5.Title:ရင္တြင္းျဖစ္ဟာသမ်ား
+Price:3.45USD
+Author:မင္းဏီလူ
+No of Pages:450
+Publication Date:Jan-2020
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+6.Title:လွေတာသား၏ ခ်စ္ပုံျပင္ပါဝင္ေသာလွေတာသားဟာသစုဘူး
+Price:0.55USD
+Author:သိမ့္သိမ့္ေနြး
+No of Pages:250
+Publication Date:May-2019
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+7.Title:ဟာသပုံျပင္မ်ား (အင္ဂလိပ္ + ျမန္မာ)
+Price:1.15USD
+Author:မိုးသူဇာေအာင္
+No of Pages:300
+Publication Date:July-2020
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+8.Title:ရယ္ျပီးေတာ့ေမာ့
+Price:2.30USD
+Author:လံုးျကီးတင္
+No of Pages:400
+Publication Date:August-2018
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+9.Title:ဆင္တစ္ဖက္ ျမင္းတစ္ဖက္
+Price:3.45USD
+Author:ဂ်က္ (ကြမ္းျခံကုန္း)
+No of Pages:500
+Publication Date:Sept-2020
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+10.Title:ေခြးထိန္းငတာ
+Price:2.85USD
+Author:တင္ညြန့္
+No of Pages:300
+Publication Date:Oct-2018
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+11.Title:ဖုံးဖုံးမိမိ  ျပံဳးစိစိ ဟာသပုံျပင္မ်ား
+Price:1.00USD
+Author:ေမာင္ေျကာ့ေ၀
+No of Pages:250
+Publication Date:Jun-2019
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+12.Title:ယမကာလုလင္
+Price:2.30USD
+Author:ေမာင္ေသာ္က
+No of Pages:300
+Publication Date:May-2019
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+13.Title:အလြဲကမ္ဘာဟာသမ်ား
+Price:1.00USD
+Author:ေမာင္ဒိုးခ
+No of Pages:200
+Publication Date:Sept-2020
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+14.Title:ငါးပိေျကာ္ရနံ့ သေရာ္စာမ်ား
+Price:3.45USD
+Author:ျဗိတိသျှကိုကိုေမာင္
+No of Pages:500
+Publication Date:Dec-2012
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
+15.Title:ငါးပိေျကာ္နံ့သင္းေသာပို့စ့္မ်ား
+Price:2.30USD
+Author:လင္းျမတ္ (ျမန္မာစာ)
+No of Pages:450
+Publication Date:Feb-2021
+Size:11cm*18cm
+Category:ဟာသ၊သေရာ္စာ
+
